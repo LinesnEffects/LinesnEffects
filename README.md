@@ -1,5 +1,4 @@
 - 👋 Hello!, I’m @LinesnEffects / Benjamin Gomez
 - I enjoy sports, reading, and web development a lot
-- I have skills in Angular, JavaScript, CSS, Node.js, MongoDB
-- Currently learning about AWS and getting my projects accesible to anyone interested
+- I have skills in Angular, JavaScript, HTML, CSS, Node.js, MongoDB, JavaScript, Docker, AWS
 - Looking to collaborate in projects regarding my skill set but also open to learn about new tools
