@@ -1,4 +1,4 @@
 - 👋 Hello!, I’m @LinesnEffects / Benjamin Gomez
-- I enjoy sports, reading, and web development a lot
+- I enjoy sports, reading, and web development
 - I have skills in Angular, React, JavaScript, HTML, CSS, Node.js, MongoDB
 - Looking to collaborate in projects regarding my skill set but also open to learn about new tools
